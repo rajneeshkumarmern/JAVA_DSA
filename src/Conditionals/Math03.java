@@ -1,3 +1,5 @@
+package Conditionals;
+
 import java.util.Scanner;
 public class Math03 {
     public static void main(String[] args){
