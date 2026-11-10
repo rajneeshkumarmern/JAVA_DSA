@@ -1,5 +1,8 @@
 package ArrayString;
 //Reverse a number	1234 → 4321
+//n % 10 – Gets the last digit.
+//reverse * 10 + digit – Adds that digit to the reversed number.
+//1. n / 10 – Removes the last digit (integer division).
 import java.util.Scanner;
 public class Numbers04 {
     public static void main(String[] args) {
